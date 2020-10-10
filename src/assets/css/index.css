@@ -1,0 +1,29 @@
+.me-nav{
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+}
+.me-nav-font{
+    font-size: 18px !important;
+}
+.me-font-color{
+    color: #8cc4fd !important;
+}
+.me-menu li:hover{
+    color: #409EFF !important;
+}
+.me-hover:hover{
+    color: #409EFF !important;
+}
+a {
+    text-decoration: none;
+}
+
+.router-link-active {
+    text-decoration: none;
+}
+
+.f-j-b{
+    display: flex;
+    justify-content: space-between;
+}
